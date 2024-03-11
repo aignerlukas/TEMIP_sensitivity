@@ -1,0 +1,14 @@
+name: empypg
+channels:
+    - conda-forge
+    - defaults
+    - gimli
+dependencies:
+    - python=3.8.12
+    - pygimli=1.2.2
+    - matplotlib=3.3.2
+    - empymod=2.1.3
+    - xlrd=2.0.1
+    - ipython
+    - pandas
+    - numpy

@@ -1,0 +1,21 @@
+------- setup device -------
+'timekey': '4',
+'currentkey': '4',
+'txloop': '50',
+'rxloop': '50',
+'current_inj': '4.1',
+'filter_powerline': '50',
+----------------------------
+
+------- setup solver -------
+'ft': 'dlf',
+'ftarg': 'key_201_CosSin_2012',
+'verbose': '4',
+'srcpts': '3',
+'recpts': '3',
+'ht': 'dlf',
+'htarg': 'key_401_2009',
+'nquad': '3',
+'cutoff_f': 'None',
+'delay_rst': '0',
+----------------------------

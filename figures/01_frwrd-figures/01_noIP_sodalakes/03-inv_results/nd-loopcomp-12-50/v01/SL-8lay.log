@@ -1,0 +1,3 @@
+name	ri	minT(us)	maxT(us)	lam	lam_fin	my	cf	noifl	max_iter	n_iter	aRMS	rRMS	chi2	runtime(min)
+snd-12	r000	0.0	0.0	    50.0	    40.5	1.0e-02	9.0e-01	0.03	25	1	1.11e-05	  2.813	  0.799	 0.3
+snd-50	r000	0.0	0.0	    50.0	    40.5	1.0e-02	9.0e-01	0.03	25	1	1.06e-04	  2.736	  0.737	 0.4

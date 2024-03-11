@@ -1,0 +1,13 @@
+!!! Attention this is a automatically generated protocol; please check with field notes !!!
+!!! When you are done please remove these lines !!!
+Field Measurements Protocol - TEM
+
+Location: SALZLACKEN _P2
+Date: 2022-05-25
+Device: TEM-fast
+
+===========================================================
+Filename: 20220525_salzlacken_txt.tem ; ==> Profile type = single
+id name X Y Z cable Tx Rx turns Time Stacks Filter Current Comments
+1  TEM_P2_1       +0.000       +0.000    +0.00 400.0 400.0 100.000 100.000     1  5   5  FILTR=50 Hz  I=4.1 A
+2  TEM_P2_1       +0.000       +0.000    +0.00 400.0 400.0 100.000 100.000     1  7   5  FILTR=50 Hz  I=4.1 A

@@ -1,0 +1,5 @@
+v52  base run,      lam 50  , nf 3.0%, maxdpth 50,  tk 8
+v53  test lam,      lam 500 , nf 3.0%, maxdpth 50,  tk 8
+v54  test dpt,      lam 50  , nf 3.0%, maxdpth 100, tk 8
+v55  test  tk,      lam 50  , nf 3.0%, maxdpth 50,  tk 4
+ 

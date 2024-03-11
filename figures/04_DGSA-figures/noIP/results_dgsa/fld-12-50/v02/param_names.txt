@@ -1,0 +1,1 @@
+["$\\mathrm{thk}_{1}$", "$\\mathrm{thk}_{2}$", "$\\mathrm{thk}_{3}$", "$\\mathrm{thk}_{4}$", "$\\mathrm{thk}_{5}$", "$\\mathrm{thk}_{6}$", "$\\mathrm{thk}_{7}$", "$\\mathrm{thk}_{8}$", "$\\mathrm{thk}_{9}$", "$\\rho_{1}$", "$\\rho_{2}$", "$\\rho_{3}$", "$\\rho_{4}$", "$\\rho_{5}$", "$\\rho_{6}$", "$\\rho_{7}$", "$\\rho_{8}$", "$\\rho_{9}$", "$\\rho_{10}$"]

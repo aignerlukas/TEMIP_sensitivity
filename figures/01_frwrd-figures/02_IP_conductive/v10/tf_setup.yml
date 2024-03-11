@@ -1,0 +1,7 @@
+current_inj: 4.0
+currentkey: 4
+filter_powerline: 50
+ramp_data: donauinsel
+rxloop: 12.5
+timekey: 5
+txloop: 12.5

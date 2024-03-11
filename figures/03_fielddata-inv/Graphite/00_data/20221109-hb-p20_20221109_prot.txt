@@ -1,0 +1,22 @@
+!!! Attention this is a automatically generated protocol; please check with field notes !!!
+!!! When you are done please remove these lines !!!
+Field Measurements Protocol - TEM
+
+Location: Hengstb-GBA-perpen
+Date: 2022-11-09
+Device: TEM-fast
+
+===========================================================
+Filename: 20221109-hb-p20.tem ; ==> Profile type = single
+id name X Y Z cable Tx Rx turns Time Stacks Filter Current Comments
+1  P01      +90.000      -12.500    +0.00 50.0 50.0  12.500  12.500     1  5   5  FILTR=50 Hz  I=4.0 A
+2  P02      +90.000      -25.000    +0.00 50.0 50.0  12.500  12.500     1  5   5  FILTR=50 Hz  I=4.1 A
+3  P03      +90.000      -45.000    +0.00 50.0 50.0  12.500  12.500     1  5   5  FILTR=50 Hz  I=4.1 A
+4  P04-25      +90.000      -75.000    +0.00 100.0 100.0  25.000  25.000     1  6  10  FILTR=50 Hz  I=4.1 A
+5  P04-25-1      +90.000      -75.000    +0.00 100.0 100.0  25.000  25.000     1  6  10  FILTR=50 Hz  I=4.1 A
+6  P05-25      +90.000     -120.000    +0.00 100.0 100.0  25.000  25.000     1  6  10  FILTR=50 Hz  I=4.1 A
+7  P01-25      +90.000      -25.000    +0.00 100.0 100.0  25.000  25.000     1  6  10  FILTR=50 Hz  I=4.1 A
+8  P06      +90.000      +25.000    +0.00 50.0 50.0  12.500  12.500     1  5   5  FILTR=50 Hz  I=4.1 A
+9  P06-1      +90.000      +25.000    +0.00 50.0 50.0  12.500  12.500     1  4   5  FILTR=50 Hz  I=4.1 A
+10  P07      +90.000      +60.000    +0.00 50.0 50.0  12.500  12.500     1  4   5  FILTR=50 Hz  I=4.1 A
+11  P08      +90.000     +150.000    +0.00 100.0 100.0  25.000  25.000     1  6  10  FILTR=50 Hz  I=4.1 A

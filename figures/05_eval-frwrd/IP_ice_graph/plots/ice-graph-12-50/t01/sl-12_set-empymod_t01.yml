@@ -1,0 +1,11 @@
+cutoff_f: 100000000.0
+delay_rst: 0
+ft: dlf
+ftarg: key_601_CosSin_2009
+ht: dlf
+htarg: key_401_2009
+nquad: 3
+recpts: 3
+rxloop: vert. dipole
+srcpts: 3
+verbose: 4

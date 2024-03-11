@@ -1,0 +1,13 @@
+Field Measurements Protocol - TEM
+
+Location: SB-GLA
+Date: 2021-07-14
+Device: TEM-fast
+
+along gpr - offset 20m to gpr start profile1
+===========================================================
+Filename: 20210714-sbl75_txt.tem ; ==> Profile type = single
+id name X Y Z cable Tx Rx turns Time Stacks Filter Current Comments
+1  L001       +0.000       +0.000    +0.00 300.0 300.0  75.000  75.000     1  3  20  FILTR=50 Hz  I=4.1 A
+2  L002       +25.000      +0.000    +0.00 300.0 300.0  75.000  75.000     1  3  20  FILTR=50 Hz  I=4.0 A
+3  L003       +37.500      +0.000    +0.00 300.0 300.0  75.000  75.000     1  3  20  FILTR=50 Hz  I=4.0 A
