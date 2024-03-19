@@ -157,56 +157,16 @@ def get_max(mean, factor):
     max_val = mean + mean/factor
     return max_val
 
-
-def query_yes_no(question, default='no'):
-    """
-    yes no query for terminal usage
-    from: https://stackoverflow.com/questions/3041986/apt-command-line-interface-like-yes-no-input
-
-    Parameters
-    ----------
-    question : string
-        query to ask the user.
-    default : string, optional
-        default answer. The default is 'no'.
-
-    Raises
-    ------
-    ValueError
-        if the expected variations of yes/no are not in the answer...
-
-    Returns
-    -------
-    none
-
-    """
-    from distutils.util import strtobool
-    if default is None:
-        prompt = " (y/n)? "
-    elif default == 'yes':
-        prompt = " ([y]/n)? "
-    elif default == 'no':
-        prompt = " (y/[n])? "
-    else:
-        raise ValueError(f"Unknown setting '{default}' for default.")
-
-    while True:
-        try:
-            resp = input(question + prompt).strip().lower()
-            if default is not None and resp == '':
-                return default == 'yes'
-            else:
-                return strtobool(resp)
-        except ValueError:
-            print("Please respond with 'yes' or 'no' (or 'y' or 'n').\n")
-
-
 # %% modified plotting function:
 def vert_pareto_plot(df, ax=None, np_plot='+5', fmt=None, colors=None,
                      confidence=False, sort_by_sens=True, n_cols=1,
                      params_per_col=None, add_empty_to_col=False):
-    """Generate a vertical Pareto plot of sensitivity analysis results.
-    adapted from : https://github.com/zperzan/pyDGSA/blob/master/pyDGSA/plot.py
+    """
+    Generate a vertical Pareto plot of sensitivity analysis results.
+
+    # Modified plotting function from pyDGSA (https://github.com/zperzan/pyDGSA/blob/master/pyDGSA/plot.py)
+    # Permission for use under the Apache v2.0 license in the
+    # TEMIP_sensitivity repo was granted by @zperzan, 2024-03-18
 
     params:
         df [DataFrame]: pandas dataframe containing the sensitivity analysis
